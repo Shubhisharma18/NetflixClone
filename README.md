@@ -1,6 +1,6 @@
 # NetflixClone
 
-<img width="1280" alt="Screenshot 2022-10-23 at 11 55 35 AM" src="https://user-images.githubusercontent.com/93879796/197444369-ffbbff89-cfea-4ba2-8cce-0fa696f3f73e.png">
+
 <img width="1280" alt="Screenshot 2022-10-23 at 11 55 14 AM" src="https://user-images.githubusercontent.com/93879796/197444373-ccf54a62-1ea7-4d8a-96f3-eb281df001c9.png">
 <img width="1280" alt="Screenshot 2022-10-22 at 10 49 26 AM" src="https://user-images.githubusercontent.com/93879796/197444378-42832748-444b-4960-b73f-c0c1d0027e8e.png">
 ![Uploading Screenshot 2022-10-23 at 11.56.01 AM.png…]()
